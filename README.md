@@ -1,4 +1,4 @@
-# econ1626-labour-policy-proposal
+# Econ1626-labour-policy-proposal
 # ECON1626 Assessment 2: Policy Proposal
 
 This repository contains my Assessment 2 policy proposal for ECON1626.
