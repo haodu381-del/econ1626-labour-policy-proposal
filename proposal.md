@@ -53,10 +53,9 @@ AI will continue to reshape the Australian labour market. The policy challenge i
 
 ## References
 
-Add your references here using RMIT Harvard style.
-
-Example:
-
-OECD 2023, *OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market*, OECD Publishing, viewed , <URL>.
-
-World Economic Forum 2025, *The Future of Jobs Report 2025*, World Economic Forum, viewed , <URL>.
+OECD 2023, OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market, OECD Publishing, Paris, viewed 2 May 2026.
+World Economic Forum 2025, The Future of Jobs Report 2025, World Economic Forum, Geneva, viewed 2 May 2026.
+Jobs and Skills Australia 2025, Our Gen AI Transition: Implications for Work and Skills, Australian Government, viewed 2 May 2026.
+International Labour Organization 2025, Generative AI and Jobs: A Refined Global Index of Occupational Exposure, International Labour Office, Geneva, viewed 2 May 2026.
+Parliamentary Library 2024, Potential Impact of Artificial Intelligence on the Australian Workforce, Parliament of Australia, Canberra, viewed 2 May 2026.
+Department of Industry, Science and Resources 2024, Introducing Mandatory Guardrails for AI in High-Risk Settings, Australian Government, Canberra, viewed 2 May 2026.
