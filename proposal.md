@@ -2,7 +2,7 @@
 
 **To:** Deputy Secretary, Department of Employment and Workplace Relations  
 **From:** Hao Du 
-**Date:** 2026/5/7  
+**Date:** 2026/5/2  
 **Subject:** Policy response to AI-driven changes in the Australian labour market  
 
 ## Executive Summary
