@@ -1,8 +1,8 @@
 # Policy Proposal: Supporting Entry-Level Workers in Australia's AI-Driven Labour Market
 
 **To:** Deputy Secretary, Department of Employment and Workplace Relations  
-**From:** [Your Name]  
-**Date:** [Submission Date]  
+**From:** Hao Du 
+**Date:** 2026/5/7  
 **Subject:** Policy response to AI-driven changes in the Australian labour market  
 
 ## Executive Summary
@@ -57,6 +57,6 @@ Add your references here using RMIT Harvard style.
 
 Example:
 
-OECD 2023, *OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market*, OECD Publishing, viewed [date], <URL>.
+OECD 2023, *OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market*, OECD Publishing, viewed , <URL>.
 
-World Economic Forum 2025, *The Future of Jobs Report 2025*, World Economic Forum, viewed [date], <URL>.
+World Economic Forum 2025, *The Future of Jobs Report 2025*, World Economic Forum, viewed , <URL>.
